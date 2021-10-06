@@ -1,0 +1,1 @@
+python train.py --dataroot /home/dj/data/nuScenes --output_dir /home/dj/data/r2l/cycleGAN --content_loss True --gen_type unet_content

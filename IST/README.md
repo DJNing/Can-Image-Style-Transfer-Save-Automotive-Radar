@@ -1,5 +1,3 @@
-# Can-Image-Style-Transfer-Save-Automotive-Radar
-
 ## Tested Models
 
 ### Image Style Transfer Using Convolutional Neural Networks
@@ -39,8 +37,5 @@ implementation based on [Unpaired Image-to-Image Translation using Cycle-Consist
 
 ## Docker env
 
-docker file is provided in ```./docker```, which provides env to run all the tested models in this repo. For further information regrading docker installation, please refer to [docker](https://www.docker.com/) and [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
-## Demo video
 
-demo video is still under construction
