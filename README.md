@@ -43,4 +43,4 @@ docker file is provided in ```./docker```, which provides env to run all the tes
 
 ## Demo video
 
-demo video is still under construction
+Please click [here](https://drive.google.com/file/d/1pFEmGHi-RSa7AhYXotBmfA1eeZyb2jB9/view?usp=sharing) to watch the demo video for this project.
